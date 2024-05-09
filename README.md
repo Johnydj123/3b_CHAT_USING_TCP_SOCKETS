@@ -46,7 +46,12 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 ```
 
 ## OUPUT:
+
+## SERVER
 ![WhatsApp Image 2024-05-10 at 00 23 58_9448d43c](https://github.com/Johnydj123/3b_CHAT_USING_TCP_SOCKETS/assets/145953459/f58d8eb1-0715-4e3d-bcf1-89d531e8b201)
+
+## CLIENT:
+![WhatsApp Image 2024-05-10 at 00 25 33_e6ac1014](https://github.com/Johnydj123/3b_CHAT_USING_TCP_SOCKETS/assets/145953459/b1d7d687-86a0-4f84-acf5-ca65b4a3cdcd)
 
 ## RESULT
 Thus, the python program for creating Chat using TCP Sockets Links was successfully 
